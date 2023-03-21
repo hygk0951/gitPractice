@@ -1,7 +1,6 @@
 red
-orange
 yellow
-green
 blue
+violet
 indigo
 I love the rainbow
